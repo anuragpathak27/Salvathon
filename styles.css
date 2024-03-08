@@ -134,5 +134,18 @@ body {
     transform: translateY(-200px); /* Adjust the distance the bubble floats up */
   }
 }
+
+.roboto-medium-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+  color: #0047AB;
+}
+
+.roboto-light-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+  color: #FF0000;
 }
 
